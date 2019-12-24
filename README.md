@@ -1,2 +1,2 @@
-# eslint-config-condingmiles
+# eslint-config-codingmiles
 Shareable eslint config for codingmiles
