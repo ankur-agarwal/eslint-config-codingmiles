@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-codingmiles",
+  "version": "0.0.1",
+  "description": "Shareable eslint config for codingmiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur-agarwal/eslint-config-codingmiles.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "codingmiles"
+  ],
+  "author": {
+    "name": "Ankur Agarwal",
+    "email": "agarwalankur58@gmail.com",
+    "url": "https://codingmiles.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankur-agarwal/eslint-config-codingmiles/issues"
+  },
+  "homepage": "https://github.com/ankur-agarwal/eslint-config-codingmiles#readme",
+  "peerDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "eslint": "^6.8.0"
+  }
+}
