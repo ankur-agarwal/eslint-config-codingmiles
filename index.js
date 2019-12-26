@@ -2,7 +2,8 @@
 
 module.exports = {
 	extends: [
-		'xo'
+		'xo',
+		'xo-react'
 	],
 	rules: {
 		'object-curly-spacing': [
