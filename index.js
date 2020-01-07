@@ -15,6 +15,7 @@ module.exports = {
 			'never'
 		],
 		'capitalized-comments': 'off',
-		'unicorn/filename-case': 'off'
+		'unicorn/filename-case': 'off',
+		'new-cap': 'off'
 	}
 };
